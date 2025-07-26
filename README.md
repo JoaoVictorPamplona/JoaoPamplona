@@ -12,7 +12,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprofundando meus conhecimentos em linguagens de programação e banco de dados, além de dar meus primeiros passos no fascinante mundo da Inteligência Artificial.
 
-Já atuei como estagiário em uma empresa de tecnologia localizada no Recife, onde pude colocar em prática meus conhecimentos, aprender com profissionais experientes e participar de projetos reais.
+Já atuei como estagiário em uma empresa de tecnologia Emprel localizado no Recife/PE, onde pude colocar em prática meus conhecimentos, aprender com profissionais experientes e participar de projetos reais.
 
 ---
 ## 🏆 Cursos e Certificações
@@ -35,13 +35,15 @@ Descrição   | Instituição   | Ano | Tipo
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+          
 </div><br>
 
 ## 📫 Como me encontrar
 
 - Email: [joaopamplona@hotmail.com]  
-- LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/joão-victor-pamplona-247994240)
-- GitHub: [github.com/seu-usuario](https://github.com/JoaoVictorPamplona)
+- LinkedIn: [https://www.linkedin.com/in/joão-victor-pamplona-247994240]
+- GitHub: [https://github.com/JoaoVictorPamplona]
 
 ---
 
